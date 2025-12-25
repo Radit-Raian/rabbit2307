@@ -35,16 +35,3 @@ I want to introduce myself as a little boy who loves to dream with the stars. Pe
 
 - ✉️ **Email**: raditraian1107@gmail.com
 - 🌌 **LinkedIn**: https://www.linkedin.com/in/raditraian/
-  
----
-
-## 📊 Contribution Universe
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rabbit2307&theme=tokyonight&area=true&hide_border=true)
-
----
-
-## 📊 GitHub Stats:
-
-<img alt="Orion's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=rabbit2307&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
-
-
