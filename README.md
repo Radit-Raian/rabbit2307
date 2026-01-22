@@ -3,7 +3,7 @@
 I want to introduce myself as a little boy who loves to dream with the stars. People also often call me Orion and welcome to my Orionverse! Beyond the constellations, I am a high school student from Bangladesh with experience of both Astrophysical Research and International Olympiads. My research interest mostly lies formation and evolution of large-scale structures in this infinite universe. Specifically, I mostly like to explore the life cycles of galaxies and the complex dynamics of galaxy clusters. Beyond the static structures, I am deeply fascinated by the transients' universe. My technical foundation is built on Python, where I specialize in astronomical data analysis, complemented by a basic working proficiency in C.
 
 ---
-## 🔭 Current Work
+## 🌟 Current Work
 
 - 🌀 **Research**: Research Intern (Onboarding) at Center for Astronomy, Space Science and Astrophysics, IUB, Dhaka
 - ⚙️ **Academic Olympiads**: Currently enrolled in the final year of high school with focus on Physics and Astronomy & Astrophysics Olympiads.
@@ -11,10 +11,10 @@ I want to introduce myself as a little boy who loves to dream with the stars. Pe
 
 ## 📁 Featured Projects
 
-* **🌌 PSF Package Buildup**
+* **🔭 PSF Package Buildup**
   - An automated Point Spread Function (PSF) package using `Sextractor` and `Photutils` to isolate and analyze faint Intra-cluster Light (ICL).
 
-* **🧬 MiMiC: Mining Minihalos in Galaxy Clusters**
+* **🌌 MiMiC: Mining Minihalos in Galaxy Clusters**
   - Detecting minihalos in cold-core galaxies by integrating multi-wavelength X-Ray and Radio data.
 
 * **💥 Spectral Analysis of Type Ia Supernovae**
